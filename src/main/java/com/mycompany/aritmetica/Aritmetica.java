@@ -19,7 +19,7 @@ public class Aritmetica {
 
         // Calcular promedio
         double promedio = suma / 2;
-        System.out.println("Resultado");
+        System.out.println("-------Resultado-----");
         // Mostrar resultados
         System.out.println("La suma es: " + suma);
         System.out.println("El promedio es: " + promedio);
